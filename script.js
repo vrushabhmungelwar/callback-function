@@ -23,7 +23,7 @@ setTimeout(() => {
                   setTimeout(() => {
                     Timer.innerHTML = `<h1>1</h1>`;
                     setTimeout(() => {
-                      Timer.innerHTML = `<h1>HAPPY INDEPENDENCE DAY!!!</h1>`;
+                      Timer.innerHTML = `<h1>!!!Happy Independence Day!!!</h1>`;
                     }, 1000);
                   }, 1000);
                 }, 1000);
