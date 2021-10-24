@@ -1,0 +1,9 @@
+body {
+    background-color: whitesmoke;
+}
+.container {
+  background-color: wheat;
+  font-size: 3rem;
+  margin-top: 20rem;
+  text-align: center;
+}
