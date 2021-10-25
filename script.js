@@ -1,6 +1,5 @@
 document.body.innerHTML = `<section class = "container"></section>`;
 
-let count = 10;
 const Timer = document.querySelector(".container");
 setTimeout(() => {
   Timer.innerHTML = `<h1>10</h1>`;
